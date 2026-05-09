@@ -1,4 +1,4 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=18c91d6d8n0hj00cjrhw02gth&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=989f37&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
   
-<br></br><img src="https://komarev.com/ghpvc/?username=loathful&label=.✦&color=23365a&base=1170000&style=flat">
+<br></br><img src="https://komarev.com/ghpvc/?username=loathful&label=.✦&color=000000&base=1170000&style=flat">
 
